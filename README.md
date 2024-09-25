@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm a freelancer creating web applications using React and Typescript. I first got into web development during my time as a QA tester at SEGA, where I build simple websites using Wix. I had just completed a course on UI/UX design from Google, and applied my knowledge to building user-centric website designs. That initial curiosity turned into a passion, leading me to an online boot camp where I discovered React—and I've been hooked ever since.
+I'm a freelancer creating web applications using React and Typescript. I first got into web development during my time as a QA tester at SEGA, where I built websites using online editors like Wix. I had just completed a course on UI/UX design from Google, and applied my knowledge to create user-centric website designs. That initial curiosity turned into a passion, leading me to an online boot camp where I discovered React—and I've been hooked ever since.
 
 Now, I'm developing projects on GitHub to practice my full-stack skills. My Computer Game Science degree from UCI gave me a solid foundation in coding, so I was able to quickly pick up backend development. Recently, I built an SaaS web application called Expandit, diving deeper into full-stack development and refining my API integration skills.
 
