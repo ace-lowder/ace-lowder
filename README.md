@@ -1,17 +1,16 @@
-## Hello 👋
+## Hello, I'm Ace 👋
 
-I'm a freelancer creating web applications using React and Typescript. I first got into web development during my time as a QA tester at SEGA, where I built websites using online editors like Wix. I had just completed a course on UI/UX design from Google, and applied my knowledge to create user-centric website designs. That initial curiosity turned into a passion, leading me to an online boot camp where I discovered React—and I've been hooked ever since.
+I'm a frontend software engineer with over 2 years of professional experience building and deploying scalable web applications using React and TypeScript. With a background in QA Testing at SEGA and UI/UX design, I prioritize building maintainable, user-centric code bases.
 
-Now, I'm developing projects on GitHub to practice my full-stack skills. My Computer Game Science degree from UCI gave me a solid foundation in coding, so I was able to quickly pick up backend development. Recently, I built an SaaS web application called Expandit, diving deeper into full-stack development and refining my API integration skills.
-
-<p align="center">Feel free to check out my pinned repos, and send me a message on LinkedIn if you want to collaborate!</p>
-<hr>
-
-<a href="https://github.com/ace-lowder/expandit"><img src="https://raw.githubusercontent.com/ace-lowder/expandit/main/readme/header.png" width="1280" alt="Expandit Banner"></a>
-<br><br>
-<a href="https://github.com/ace-lowder/ai-or-not"><img src="https://raw.githubusercontent.com/ace-lowder/ai-or-not/main/readme/header.png" width="1280" alt="AI or Not Banner"></a>
+Here is my current tech stack:
+- 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀: React, Redux, Express.js, TailwindCSS, Next.js
+- 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: JavaScript, TypeScript, HTML, CSS
+- 𝗧𝗼𝗼𝗹𝘀 & 𝗗𝗲𝘃𝗢𝗽𝘀: AWS, Docker, Jenkins, Jest, Git, Figma
+- 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: MongoDB, PostgreSQL
+- 𝗠𝗲𝘁𝗵𝗼𝗱𝗼𝗹𝗼𝗴𝗶𝗲𝘀: Agile, RESTful APIs
 
 
+Feel free to check out my pinned repos, and send me a message on LinkedIn if you want to collaborate!
 <!--
 **ace-lowder/ace-lowder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
